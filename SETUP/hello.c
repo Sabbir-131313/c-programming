@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("Go");
+    printf("problem");
     return 0;
 }
